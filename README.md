@@ -1,10 +1,11 @@
 ### Hi, I'm Guilherme 🌌
 
-I'm a 19 years old computer science student from Brazil
+I'm a 19 years old computer science student from Brazil.
 
 ### - Learning: 
 
 -🌟 C++
+<br></br>
 -✨ C#
 
 <div>
